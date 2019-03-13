@@ -5,6 +5,8 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
+//Ensure a class has only one instance and provide a global point of
+//access to it
 namespace Singleton
 {
     class Program

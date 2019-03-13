@@ -6,6 +6,8 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
+//Provide an interface for creating families of related or dependent objects
+//without specifying their concrete classes.
 namespace AbstractFactory
 {
     class Program
